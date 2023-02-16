@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.vaanalvesr
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, jackson-xml, java, java-application, jax-rs, junit, logback, maven, netty-server, properties, readme, shade]
